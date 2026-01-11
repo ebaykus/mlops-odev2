@@ -11,4 +11,4 @@ def predict(input_data):
 
 if __name__ == "__main__":
     print(f"Test çıktısı: {predict('test_verisi')}")
-    
+    SABOTAJ_KODU = bu_kod_calismaz
